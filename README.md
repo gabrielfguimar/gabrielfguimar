@@ -6,7 +6,7 @@ Hello world, I am Gabriel! 👋
 
 Sou apaixonado por construir sistemas seguros, escaláveis e por resolver problemas complexos de arquitetura de software.
 
-* 🔭 Atualmente cursando Especialização Back-End em Java (EBAC).
+* 🔭 Atualmente cursando Especialização Back-End em Java (EBAC-Escola Britânica de Artes Criativas & Tecnologia).
 * 🛡️ Trago uma bagagem sólida como analista de KYC e prevenção a fraudes no setor bancário. Hoje, utilizo essa mentalidade de análise de risco e proteção de dados para escrever códigos mais seguros.
 * 🌱 Meu foco de estudo e desenvolvimento diário envolve **Java 21, Spring Boot 3, Mensageria (RabbitMQ)** e **Clean Architecture**.
 * 💻 Buscando aplicar minha visão analítica e técnica em oportunidades de desenvolvimento back-end (preferencialmente remotas).
