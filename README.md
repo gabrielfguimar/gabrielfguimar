@@ -8,8 +8,8 @@ Sou apaixonado por construir sistemas seguros, escaláveis e por resolver proble
 
 * 🔭 Atualmente cursando Especialização Back-End em Java (EBAC-Escola Britânica de Artes Criativas & Tecnologia).
 * 🛡️ Trago uma bagagem sólida como analista de KYC e prevenção a fraudes no setor bancário. Hoje, utilizo essa mentalidade de análise de risco e proteção de dados para escrever códigos mais seguros.
-* 🌱 Meu foco de estudo e desenvolvimento diário envolve **Java 21, Spring Boot 3, Mensageria (RabbitMQ)** e **Clean Architecture**.
-* 💻 Buscando aplicar minha visão analítica e técnica em oportunidades de desenvolvimento back-end (preferencialmente remotas).
+* 🌱 Meu foco de estudo e desenvolvimento diário no momento envolve **Java 21, Spring Boot 3, Mensageria (RabbitMQ)** e **Clean Architecture**.
+* 💻 Buscando aplicar minha visão analítica e técnica em oportunidades de desenvolvimento back-end.
 * 💬 Me pergunte sobre: gerenciamento seguro de credenciais, comunicação assíncrona ou estratégias de autenticação.
 * 🎪 Fato curioso: Nas horas vagas, sou malabarista e treino padrões técnicos com até 5 bolinhas!
 
