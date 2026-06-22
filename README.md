@@ -11,7 +11,7 @@ Sou apaixonado por construir sistemas seguros, escaláveis e por resolver proble
 * 🌱 Meu foco de estudo e desenvolvimento diário no momento envolve **Java 21, Spring Boot 3, Mensageria (RabbitMQ)** e **Clean Architecture**.
 * 💻 Buscando aplicar minha visão analítica e técnica em oportunidades de desenvolvimento back-end.
 * 💬 Me pergunte sobre: gerenciamento seguro de credenciais, comunicação assíncrona ou estratégias de autenticação.
-* 🎪 Fato curioso: Nas horas vagas, sou malabarista e treino padrões técnicos com até 5 bolinhas!
+* 🎪 Fun fact: I'm a juggler and I like to practice siteswaps patterns with 4-5 balls.
 
 ### Conecte-se comigo:
 
