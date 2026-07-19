@@ -43,11 +43,8 @@ Aqui estão algumas das soluções que desenvolvi unindo engenharia de software 
 
 ### Estatísticas do GitHub:
 
-<!-- Estes cards geram automaticamente suas estatísticas. Certifique-se de trocar "bielfloresgui" pelo seu username atual caso ainda não tenha feito a migração na plataforma -->
-### Estatísticas do GitHub:
-
 <!-- Estes cards geram automaticamente suas estatísticas usando o seu deploy próprio na Vercel para evitar quedas -->
 <div align="center">
-  <img height="180" src="https://github-readme-stats-gabrielfguimar1.vercel.app/api?username=gabrielfguimar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=1"/>
-  <img height="180" src="https://github-readme-stats-gabrielfguimar1.vercel.app/api/top-langs/?username=gabrielfguimar&layout=compact&langs_count=7&theme=radical&v=1"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielfguimar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=1"/>
+  <img height="180" src="https://github-readme-stats.app/api/top-langs/?username=gabrielfguimar&layout=compact&langs_count=7&theme=radical&v=1"/>
 </div>
