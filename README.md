@@ -45,6 +45,6 @@ Aqui estão algumas das soluções que desenvolvi unindo engenharia de software 
 
 <!-- Estes cards geram automaticamente suas estatísticas usando o seu deploy próprio na Vercel para evitar quedas -->
 <div align="center">
-  <img height="180" src="https://github-readme-stats-gabrielfguimar1.vercel.app/api?username=gabrielfguimar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats-gabrielfguimar1.vercel.app/api/top-langs/?username=gabrielfguimar&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180" src="https://github-readme-stats-gabrielfguimar1.vercel.app/api?username=gabrielfguimar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=2"/>
+  <img height="180" src="https://github-readme-stats-gabrielfguimar1.vercel.app/api/top-langs/?username=gabrielfguimar&layout=compact&langs_count=7&theme=radical&v=2"/>
 </div>
